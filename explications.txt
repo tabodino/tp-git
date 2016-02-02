@@ -1,4 +1,4 @@
-1) Création du repository tp-git sur GitHub
+1) Création du repository tp-git sur GitHub avec le fichier README.md
 
 2) Utilisation de la commande git clone avec l'adresse de mon repository fraichement crée pour le récuperer sur ma machine locale.
 
