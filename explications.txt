@@ -1,9 +1,0 @@
-1) Création du repository tp-git sur GitHub avec le fichier README.md
-
-2) Utilisation de la commande git clone avec l'adresse de mon repository fraichement crée pour le récuperer sur ma machine locale.
-
-3) Vérification de la présence du repository avec la commande cat
-
-4) Utilisation de git status pour faire le point sur le workflow
-
-5) Premier commit, ajout du fichier README.md avec git add README.md puis git commit -m "Modification ..."
